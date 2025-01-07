@@ -3,6 +3,9 @@ This is my first Git repos
 <br>
 Author - Bhavesh Kumar
 
+# Teacher
+Shradha Khapra
 
-# student 
-Bhavesh kumar
+# Student
+Bhavesh Kumar
+
